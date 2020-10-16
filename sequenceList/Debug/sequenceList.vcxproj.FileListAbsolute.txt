@@ -1,0 +1,2 @@
+D:\Desktop\CPP\sequenceList\Debug\sequenceList.exe
+D:\Desktop\CPP\sequenceList\Debug\sequenceList.pdb

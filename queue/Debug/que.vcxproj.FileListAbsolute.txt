@@ -1,0 +1,2 @@
+D:\Desktop\CPP\que\Debug\que.exe
+D:\Desktop\CPP\que\Debug\que.pdb
