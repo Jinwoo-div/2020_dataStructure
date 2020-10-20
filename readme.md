@@ -8,9 +8,9 @@
 * linkedList
   + singleLinkedList data 삭제부분 구현
 * queue
-  +array기반 queue구현
-  +linkedList기반 queue구현
-  +위 두가지 queue를 통해 각각 간단한 미니게임 구현
+  + array기반 queue구현
+  + linkedList기반 queue구현
+  + 위 두가지 queue를 통해 각각 간단한 미니게임 구현
 * sequenceList
   + linkedList기반 sequence구현
 * Tree
