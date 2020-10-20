@@ -1,5 +1,5 @@
 #2020 2학기 자료구조
-##사용되는 여러 자료구조를 c++을 사용하여 직접 구현
+##사용되는 여러 자료구조를 c++을 사용하여 직접 구현##
 *###ArrList, LinkedList
 +기본적인 array 구현    +singleLinkedList 구현
 *###ArrStack
