@@ -17,4 +17,12 @@
   + vector를 사용한 Tree구현
   + 해당 Tree의 Depth표현
 * TreeTraversal
-  + vector를 사용한 Tree의 postOrder, preOrder구현
+  + vector를 사용한 Tree의 postOrder, preOrder 구현
+* binarySearchTree
+  + traversal을 통해 minimum, maximum값 찾기 구현
+* priorityQueue
+  + vector를 사용하여 heap 구현
+  + 상기 heap을 통해 minheap 구현
+* hashtable
+  + linearhashing을 사용하는 hashtable 구현
+  + doublehashing을 사용하는 hashtable 구현
